@@ -1,0 +1,19 @@
+{
+  "name": "calendarbympvue",
+  "version": "1.0.0",
+  "description": "一基于mpvue�的一款日历组件\u001b[D\u001b[D\u001b[D扩展\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b扩展组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazhp/calendarbympvue.git"
+  },
+  "author": "mazhp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mazhp/calendarbympvue/issues"
+  },
+  "homepage": "https://github.com/Mazhp/calendarbympvue#readme"
+}
